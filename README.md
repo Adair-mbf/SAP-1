@@ -1,6 +1,6 @@
 Instituto federal goiano - Campus Morrinhos
 
-Adair Marques Borges Filho(2024104192040017)
+Adair Marques Borges Filho
 
 Bacharelado em Ciências da Computação(BCC) - 2º Período
 
